@@ -4,14 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2c52a73-2058-48d0-9050-42e40a7c666c" name="Changes" comment="ef" />
+    <list default="true" id="f2c52a73-2058-48d0-9050-42e40a7c666c" name="Changes" comment="ef">
+      <change beforePath="$PROJECT_DIR$/client/src/pages/HomePage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/HomePage.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/server" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -36,7 +38,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors",
-    "ts.external.directory.path": "C:\\Users\\Владислав\\Desktop\\NEST_TS_REACT_Project\\client\\node_modules\\typescript\\lib",
+    "ts.external.directory.path": "C:\\Users\\Владислав\\Desktop\\NEST_TS_REACT_Project\\server\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -62,6 +64,7 @@
       <workItem from="1657411938590" duration="8533000" />
       <workItem from="1657463315653" duration="5785000" />
       <workItem from="1657471264424" duration="359000" />
+      <workItem from="1657550122762" duration="70000" />
     </task>
     <task id="LOCAL-00001" summary="ef">
       <created>1656688451458</created>
